@@ -1,4 +1,3 @@
-import pandas as pd
 from robot.api import logger
 import csv
 
